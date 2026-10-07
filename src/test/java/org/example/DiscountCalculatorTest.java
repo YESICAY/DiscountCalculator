@@ -55,4 +55,13 @@ class DiscountCalculatorTest {
         );
     }
 
+    @Test
+    void shouldThrowExceptionForMaximunAmount() {
+
+        assertThrows(
+                InvalidPurchaseException.class,
+                () -> calculator.calculateFinalPrice(2000000, true)
+        );
+    }
+
 }

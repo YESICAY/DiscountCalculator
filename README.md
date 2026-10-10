@@ -1,6 +1,6 @@
 # 🧮 DiscountCalculator
 
-![Java CI](https://github.com/YESICAY/DiscountCalculator/actions/workflows/ci.yml/badge.svg)
+![Java CI]([![Java CI](https://github.com/YESICAY/DiscountCalculator/actions/workflows/ci.yml/badge.svg)](https://github.com/YESICAY/DiscountCalculator/actions/workflows/ci.yml))
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=YESICAY_DiscountCalculator&metric=alert_status)](https://sonarcloud.io/project/overview?id=YESICAY_DiscountCalculator)
 
 Calculadora de descuentos en **Java 25** y **Maven**, con integración continua usando **GitHub Actions**, **JaCoCo** y **SonarCloud**.
